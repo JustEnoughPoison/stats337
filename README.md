@@ -66,9 +66,9 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 * [An introduction to Docker for reproducible research, with examples from the R environment](https://arxiv.org/abs/1410.0846); 
   Carl Boettiger (2014).
 
-* [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google.com/pubs/pub43146.html);
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf);
   D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, 
-  Dietmar Ebner, Vinay Chaudhary, Michael Young (2015).
+  Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-Francois Crespo, Dan Dennison (2015).
 
 [Collaborative google doc](week-04/google-doc.md)
 
@@ -164,6 +164,41 @@ Spend 3-5 minutes filling out [class feedback](https://goo.gl/forms/py92VLLqodxu
 
 * Optional: [How to be a modern scientist](https://leanpub.com/modernscientist);
   Jeff Leek (2016).
+
+## Annotated bibliographies
+
+Many students in the spring 2018 elected to share their final annotated bibliographies
+
+* [Blameless post-mortems](annotated-bibs/blameless-postmortems.md) by
+  [Jennifer Wang](https://github.com/jw0506)  
+
+* [Communication and visualization](annotated-bibs/communication.pdf) 
+  by Kenneth Tay
+
+* [Connections to cognitive science](annotated-bibs/cogsci.pdf)
+  by Sara Altman.
+  
+* [Data science as an academic field](annotated-bibs/ds-academic-field.pdf) (pdf)
+  by [Stephen Bates](https://github.com/stephenbates19)
+
+* [Data science in modern medicine](annotated-bibs/modern-medicine.pdf)
+  by Sean R. Zion.
+  
+* [Diversity in hiring and employment](annotated-bibs/diversity.pdf) (pdf)
+
+* [Ethics in data science](annotated-bibs/ethics.pdf) (pdf)
+
+* [Graphical advice](annotated-bibs/graphical-advice.pdf)
+  by Nick Hershey
+  
+* [Sharing analyses across research groups](annotated-bibs/sharing-analyses.pdf) 
+  by Hershel Mehta.
+
+* [Tailoring learning experiences for adults through data analytics](annotated-bibs/tailored-elearning.pdf) (pdf)
+  by Anna Khazenzon.
+
+* [Teaching data science](annotated-bibs/teaching.pdf) (pdf)
+  by Ben Stenhaug.
 
 ## Grading
 
